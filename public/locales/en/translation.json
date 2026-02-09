@@ -1,0 +1,21 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "program": "Program",
+    "lifestyle": "Lifestyle"
+  },
+  "hero": {
+    "title": "A step-by-step training structure tailored to your time and fitness level",
+    "description":"The program is based on modern Western research and principles of sports physiology and contains everything you need for your maximum progress."
+  },
+  "program":{
+    "title":"Program"
+  },
+  "secondProgram":{
+    "description": "Follow me on Instagram to see my fitness journey, strong physique, daily workouts, and healthy lifestyle. I also share my everyday life, motivation, and personal moments. Stay connected and get inspired every day.",
+    "tgDesc":"Contact me on Telegram for questions, collaborations, or any suggestions. I'm always open to communication and happy to connect with you directly."
+
+  }
+
+}

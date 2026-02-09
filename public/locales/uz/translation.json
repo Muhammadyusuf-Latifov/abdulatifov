@@ -1,0 +1,19 @@
+{
+  "header": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "program": "Dastur",
+    "lifestyle": "Hayot tarzi"
+  },
+  "hero": {
+    "title": "Vaqt va fitnes darajangizga moslashtirilgan bosqichma-bosqich trening tuzilishi",
+    "description": "Dastur zamonaviy G'arb tadqiqotlari va sport fiziologiyasi tamoyillari asosida ishlab chiqilgan bo'lib, maksimal muvaffaqiyatga erishish uchun kerak bo'lgan hamma narsani o'z ichiga oladi."
+  },
+  "program": {
+    "title": "Dastur"
+  },
+  "secondProgram": {
+    "description": "Instagram sahifam orqali mening fitness yo‘limni, sport qomatimni, kundalik mashg‘ulotlarimni va sog‘lom turmush tarzini kuzatib boring. Shuningdek, kundalik hayotim, motivatsiya va shaxsiy lahzalarimni ham ulashaman. Obuna bo‘ling va har kuni ilhom oling.",
+    "tgDesc": "Savollar, takliflar yoki hamkorlik uchun men bilan Telegram orqali bog‘lanishingiz mumkin. Men doim muloqotga ochiqman va siz bilan bevosita aloqa qilishdan mamnun bo‘laman."
+  }
+}

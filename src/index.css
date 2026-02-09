@@ -7,3 +7,13 @@
   padding-left: 16px;
   padding-right: 16px;
 }
+.navlink {
+  color: rgb(186, 186, 186);
+}
+
+.navlink.active {
+  color: white;
+}
+.hero-title{
+  line-height: 1.2;
+}
