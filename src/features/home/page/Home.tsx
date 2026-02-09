@@ -1,8 +1,8 @@
 
 import rasm from "../../../shared/images/mainLogo/hero.jpg";
 import { useTranslation } from "react-i18next";
-import GridProgram from "../components/gridProgram";
-import CommentAceternity from "../components/comentAceternity";
+import GridProgram  from "../components/GridProgram";
+import CommentAceternity from "../components/ComentAceternity";
 
 const Home = () => {
   const { t } = useTranslation();
