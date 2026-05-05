@@ -7,6 +7,7 @@ const Home = lazy(() => import("../features/home/page/Home"));
 const MainLayout = lazy(() => import("../layout/MainLayout"));
 const Program = lazy(() => import("../features/program/pages/Program"));
 const About = lazy(() => import("../features/about/page/About"));
+const Lifestyle = lazy(() => import("../features/lifestyle/page/lifestyle"));
 
 const AppRoutes = () => {
   const routes = useRoutes([
@@ -23,9 +24,14 @@ const AppRoutes = () => {
           element: <About />,
         },
         {
+          path: "lifestyle",
+          element: <Lifestyle />,
+        },
+        {
           path: "program",
           element: <Program />,
         },
+       
       ],
     },
   ]);

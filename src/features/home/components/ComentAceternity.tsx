@@ -4,30 +4,31 @@ import { HoverEffect } from "../../../shared/ui/HoverEffect";
 const CardHoverEffectDemo = () => {
   const { t } = useTranslation();
   const instagram = t("secondProgram.description");
+  const telegram = t("secondProgram.tgDesc");
+  const emailDesc = t("secondProgram.emailDesc");
   const projects = [
     {
       title: "Instagram",
       description: instagram,
 
-      link: "https://instagram.com/abdulatifoov",
+      link: "https://instagram.com/abdulatifow",
     },
     {
       title: "Telegram",
-      description:
-        "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-      link: "https://t.me/abdulatifov_7",
+      description: telegram,
+      link: "https://t.me/abdulatifow",
     },
     {
-      title: "Google",
-      description:
-        "A multinational technology company that specializes in Internet-related services and products.",
-      link: "https://google.com",
+      title: "Email",
+      description: emailDesc,
+
+      link: "mailto:zyec22@icloud.com",
     },
     {
-      title: "Meta",
+      title: "You Tube",
       description:
         "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      link: "https://meta.com",
+      link: "https://www.youtube.com/@abdulatifoov",
     },
     {
       title: "Amazon",

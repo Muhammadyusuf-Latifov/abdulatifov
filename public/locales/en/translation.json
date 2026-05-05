@@ -14,8 +14,11 @@
   },
   "secondProgram":{
     "description": "Follow me on Instagram to see my fitness journey, strong physique, daily workouts, and healthy lifestyle. I also share my everyday life, motivation, and personal moments. Stay connected and get inspired every day.",
-    "tgDesc":"Contact me on Telegram for questions, collaborations, or any suggestions. I'm always open to communication and happy to connect with you directly."
+    "tgDesc":"Contact me on Telegram for questions, collaborations, or any suggestions. I'm always open to communication and happy to connect with you directly.",
+    "emailDesc":"Feel free to contact me via email for business inquiries, collaborations, or any questions. I usually respond as soon as possible and will be happy to hear from you."
 
+  }, "programComp":{
+    
   }
 
 }

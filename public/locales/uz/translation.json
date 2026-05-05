@@ -13,7 +13,8 @@
     "title": "Dastur"
   },
   "secondProgram": {
-    "description": "Instagram sahifam orqali mening fitness yo‘limni, sport qomatimni, kundalik mashg‘ulotlarimni va sog‘lom turmush tarzini kuzatib boring. Shuningdek, kundalik hayotim, motivatsiya va shaxsiy lahzalarimni ham ulashaman. Obuna bo‘ling va har kuni ilhom oling.",
-    "tgDesc": "Savollar, takliflar yoki hamkorlik uchun men bilan Telegram orqali bog‘lanishingiz mumkin. Men doim muloqotga ochiqman va siz bilan bevosita aloqa qilishdan mamnun bo‘laman."
+    "description": "Instagram sahifam orqali mening fitness yo‘limni, sport dasturimni, kundalik mashg‘ulotlarimni va sog‘lom turmush tarzini kuzatib boring. Shuningdek, kundalik hayotim, motivatsiya va shaxsiy lahzalarimni ham ulashaman. Obuna bo‘ling va har kuni ilhom oling.",
+    "tgDesc": "Savollar, takliflar yoki hamkorlik uchun men bilan Telegram orqali bog‘lanishingiz mumkin. Men doim muloqotga ochiqman va siz bilan bevosita aloqa qilishdan mamnun bo‘laman.",
+    "emailDesc": "Savollar, hamkorlik yoki takliflar uchun menga email orqali yozishingiz mumkin. Imkon qadar tez javob beraman va siz bilan aloqada bo‘lishdan mamnun bo‘laman."
   }
 }

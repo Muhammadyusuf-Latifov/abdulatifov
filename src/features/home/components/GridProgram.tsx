@@ -6,7 +6,7 @@ const GridProgram = () => {
   return (
     <>
       <section className="py-[50px]">
-        <div className="container">
+        <div className="max-w-[950px] w-full mx-auto px-4">
           <h2 className="text-center  text-white text-[34px]">
             {t("program.title")}
           </h2>
