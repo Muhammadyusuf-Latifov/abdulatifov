@@ -50,7 +50,7 @@ export default function Footer() {
                     isActive ? "text-white " : "hover:text-white duration-300"
                   }
                 >
-                {t("header.program")}
+                  {t("header.program")}
                 </NavLink>
               </li>
               <li>
@@ -60,7 +60,7 @@ export default function Footer() {
                     isActive ? "text-white " : "hover:text-white duration-300"
                   }
                 >
-                {t("header.lifestyle")}
+                  {t("header.lifestyle")}
                 </NavLink>
               </li>
             </ul>
@@ -75,7 +75,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4 text-2xl">
               <a
-                href="#"
+                href="https://instagram.com/abdulatifow"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-pink-500 duration-300"
@@ -83,7 +83,7 @@ export default function Footer() {
                 <RiInstagramFill />
               </a>
               <a
-                href="#"
+                href="https://t.me/abdulatifow"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-blue-400 duration-300"
@@ -91,7 +91,7 @@ export default function Footer() {
                 <RiTelegram2Fill />
               </a>
               <a
-                href="#"
+                href="https://www.youtube.com/@abdulatifoov"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-red-500 duration-300"
@@ -99,7 +99,7 @@ export default function Footer() {
                 <FaYoutube />
               </a>
               <a
-                href="#"
+                href="mailto:zyec22@icloud.com"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-blue-500 duration-300"
@@ -111,8 +111,8 @@ export default function Footer() {
         </div>
       </div>
       <div className="container">
-      <hr className="mt-5 border-none h-px bg-[#454545]"/>  
-</div>
+        <hr className="mt-5 border-none h-px bg-[#454545]" />
+      </div>
       <div className="text-center text-gray-500 mt-10 text-sm">
         © {new Date().getFullYear()} Muhammadziyo
       </div>
